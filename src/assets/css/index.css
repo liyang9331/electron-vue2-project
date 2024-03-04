@@ -1,0 +1,13 @@
+/* 定义字体 */
+@font-face {
+  font-family: "Source Han Sans CN-Bold";
+  src: url("/assets/font/SourceHanSansCNBold.otf") format("otf");
+}
+@font-face {
+  font-family: "Source Han Sans CN-Regular";
+  src: url("/assets/font/SourceHanSansCNRegular.otf") format("otf");
+}
+
+body{
+    font-family: 'Source Han Sans CN-Regular';
+}

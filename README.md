@@ -1,2 +1,24 @@
-# electron-vue2-project
-这是一个基于electron和vue2技术栈的PC桌面企业应用项目代码仓库
+# electron-vue2-test
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
